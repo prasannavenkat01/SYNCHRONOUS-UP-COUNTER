@@ -64,7 +64,7 @@ endmodule
 **TIMING DIAGRAM FOR IP COUNTER**
 ![image](https://github.com/prasannavenkat01/SYNCHRONOUS-UP-COUNTER/assets/150702500/efdf83ac-30ed-4cca-acb8-57e13e916098)
 
-**TRUTH TABLE**
+**TRUTH TABLE**<br>
 ![image](https://github.com/prasannavenkat01/SYNCHRONOUS-UP-COUNTER/assets/150702500/1d19ce87-715e-45d6-8a7a-cfa8c0421fbc)
 
 
