@@ -62,11 +62,14 @@ endmodule
 ![image](https://github.com/prasannavenkat01/SYNCHRONOUS-UP-COUNTER/assets/150702500/fbd16114-88ac-49ad-82dc-2da038549d0f)
 
 **TIMING DIAGRAM FOR IP COUNTER**
-![image](https://github.com/prasannavenkat01/SYNCHRONOUS-UP-COUNTER/assets/150702500/b0c4fb9e-8be3-4a32-83c6-b916b0d6b626)
+![image](https://github.com/prasannavenkat01/SYNCHRONOUS-UP-COUNTER/assets/150702500/efdf83ac-30ed-4cca-acb8-57e13e916098)
 
 **TRUTH TABLE**
-![image](https://github.com/prasannavenkat01/SYNCHRONOUS-UP-COUNTER/assets/150702500/3e785856-498d-465f-b7a8-4e6838c96dca)
+![image](https://github.com/prasannavenkat01/SYNCHRONOUS-UP-COUNTER/assets/150702500/1d19ce87-715e-45d6-8a7a-cfa8c0421fbc)
 
 
 **RESULTS**
+Hence a 4 bit synchronous up counter is implemented correctly
+
+
 Hence a 4 bit synchronous up counter is implemented correctly
